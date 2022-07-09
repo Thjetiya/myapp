@@ -1,4 +1,6 @@
 public class Z {
 
-    public int age;
+
+    private int age;
+    
 }
